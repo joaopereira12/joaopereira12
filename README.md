@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Topology](https://www.topology.gg/)
 
-- 📫 How to reach me **linkedin.com/in/joão-pereira-91a087230**
+- 📫 Email: joao.pereira.12.work@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
