@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Pereira</h1>
 <p align="left"> <a href="https://twitter.com/kiviz7" target="blank"><img src="https://img.shields.io/twitter/follow/kiviz7?logo=twitter&style=for-the-badge" alt="kiviz7" /></a> </p>
 
-- 🔭 Interned at [Topology](https://www.topology.gg/)
-
 - 📫 How to reach me **joao.pereira.12.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
