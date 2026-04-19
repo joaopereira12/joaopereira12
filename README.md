@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- ** Software Engineer **
+- **Software Engineer**
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me at **joao.pereira.12.work@gmail.com**
 
