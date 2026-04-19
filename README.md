@@ -18,8 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student at **NOVA School of Science & Technology**
-- 🔭 Currently working on a **To-Do List REST API** with Spring Boot & JWT
+- ** Software Engineer **
 - 🌱 Always learning and exploring new technologies
 - 📫 Reach me at **joao.pereira.12.work@gmail.com**
 
